@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://dev.forms.bytesuite.io</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/ai</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/ai-quiz</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/builder</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/dashboard/workspace/new</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/docs/api</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/forgot-password</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/integration/slack</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/integrations</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/integrations/slack</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/login</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/new</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/plans</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/profile</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/quiz-builder</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/register</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/templates</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://dev.forms.bytesuite.io/workspaces/invite</loc><lastmod>2024-07-11T09:04:34.440Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>

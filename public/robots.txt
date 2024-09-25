@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://dev.forms.bytesuite.io
+
+# Sitemaps
+Sitemap: https://dev.forms.bytesuite.io/sitemap.xml
